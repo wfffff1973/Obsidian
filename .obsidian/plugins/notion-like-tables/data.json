@@ -1,0 +1,87 @@
+{
+  "data": {
+    "table-id-aQDSAU": {
+      "model": {
+        "columnIds": [
+          "column-id-kfZm5bdO",
+          "column-id-w6a02Gvn"
+        ],
+        "rowIds": [
+          "row-id-SRaoUjdm",
+          "row-id-JW6fvrFo"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-69RZiTkE",
+            "columnId": "column-id-kfZm5bdO",
+            "rowId": "row-id-SRaoUjdm",
+            "markdown": "参数",
+            "html": "参数",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-yBsBw4hs",
+            "columnId": "column-id-w6a02Gvn",
+            "rowId": "row-id-SRaoUjdm",
+            "markdown": "意义",
+            "html": "意义",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-1LQjVMAG",
+            "columnId": "column-id-kfZm5bdO",
+            "rowId": "row-id-JW6fvrFo",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-fFlBFxID",
+            "columnId": "column-id-w6a02Gvn",
+            "rowId": "row-id-JW6fvrFo",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-kfZm5bdO": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-w6a02Gvn": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-SRaoUjdm": {
+            "creationDate": 1673580689592
+          },
+          "row-id-JW6fvrFo": {
+            "creationDate": 1673580982089
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-aQDSAU",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}
